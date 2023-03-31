@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aristos
 - 👀 I’m interested in improving my coding skills.
-- 🌱 I’m currently learning Fortran and C++.
+- 🌱 I’m currently learning Fortran, C++ and MATLAB.
 - 💞️ I’m looking to collaborate on any challenging STEM problem.
 - 📫 How to reach me: aristossar@gmail.com
 
